@@ -1,0 +1,12 @@
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\bin\Debug\net8.0\DoctorAppointment.Domain.deps.json
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\bin\Debug\net8.0\DoctorAppointment.Domain.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\bin\Debug\net8.0\DoctorAppointment.Domain.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.csproj.AssemblyReference.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.AssemblyInfoInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.AssemblyInfo.cs
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.csproj.CoreCompileInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\refint\DoctorAppointment.Domain.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\DoctorAppointment.Domain.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Domain\obj\Debug\net8.0\ref\DoctorAppointment.Domain.dll

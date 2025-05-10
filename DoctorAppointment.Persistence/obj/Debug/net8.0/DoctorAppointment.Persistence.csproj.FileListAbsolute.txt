@@ -1,0 +1,17 @@
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Persistence.deps.json
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Persistence.runtimeconfig.json
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Persistence.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Persistence.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Domain.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\bin\Debug\net8.0\DoctorAppointment.Domain.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.csproj.AssemblyReference.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.AssemblyInfoInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.AssemblyInfo.cs
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.csproj.CoreCompileInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAp.62B91A6E.Up2Date
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\refint\DoctorAppointment.Persistence.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\DoctorAppointment.Persistence.genruntimeconfig.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Persistence\obj\Debug\net8.0\ref\DoctorAppointment.Persistence.dll

@@ -1,0 +1,15 @@
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\bin\Debug\net8.0\DoctorAppointment.Application.deps.json
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\bin\Debug\net8.0\DoctorAppointment.Application.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\bin\Debug\net8.0\DoctorAppointment.Application.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\bin\Debug\net8.0\DoctorAppointment.Domain.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\bin\Debug\net8.0\DoctorAppointment.Domain.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.csproj.AssemblyReference.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.AssemblyInfoInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.AssemblyInfo.cs
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.csproj.CoreCompileInputs.cache
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAp.ED15DF11.Up2Date
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\refint\DoctorAppointment.Application.dll
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\DoctorAppointment.Application.pdb
+F:\cloudProject\DoctorAppointment\DoctorAppointment.Application\obj\Debug\net8.0\ref\DoctorAppointment.Application.dll
